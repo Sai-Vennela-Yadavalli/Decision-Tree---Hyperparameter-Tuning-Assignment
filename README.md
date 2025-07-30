@@ -28,7 +28,7 @@ R² Score = 0.96
 
 | File Name                                               | Description                             |
 |----------------------------------------------------------|-----------------------------------------|
-| `Baby Assignment - Decision Tree (Hypertuning Parameter).pdf` | Completed PDF assignment with results   |
+| `Assignment - Decision Tree (Hypertuning Parameter).pdf` | Completed PDF assignment with results   |
 | `README.md`                                              | You’re reading it 😊                     |
 
 ---
